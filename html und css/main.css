@@ -1,0 +1,20 @@
+/*   Author: Timo Niese
+     Version: 1.0
+     Datum: 29.10.2021
+*/
+
+/* Formatierung des Textes. */
+.text {
+  font-family: "Open Sans";
+  width: 500px;
+  color: black;
+  background-color: white;
+  margin:  20px auto;
+  padding-bottom: 1em;
+  font-size: large;
+}
+/* Hintergrundfarbe und Ausrichtung für das Formular. */
+  .container1 {
+    text-align: center;
+    background-color: white;
+}
